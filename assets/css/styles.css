@@ -1,0 +1,62 @@
+.brand {
+  font-family: "Martel", serif;
+  font-weight: 800;
+}
+
+.sub-brand {
+  font-family: "Roboto", sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+}
+
+/* .nav-item {
+margin: 0 4px;
+} */
+
+.nav-link {
+  font-family: "DM Sans", sans-serif;
+  font-weight: 300;
+  color: #757575 !important;
+  &:hover,
+  &:focus {
+    color: #1C3879 !important;
+  }
+}
+
+.titulo {
+  font-family: "Martel", serif;
+}
+
+.card-title {
+  font-family: "Martel", serif;
+
+}
+
+.parrafo {
+  font-family: "DM Sans", sans-serif;
+  line-height: 2;
+  padding-bottom: 40px;
+}
+
+.card {
+  background-color: #f9f6f6;
+  box-shadow: 0 0 10px rgba(94, 93, 93, 0.1);
+}
+
+.card-text {
+ font-size: 14px;
+ 
+
+}
+
+.text-footer {
+  font-family: "DM Sans", sans-serif;
+  font-size: 16px;
+}
+
+.cuento {
+  background-color: #d2e4f7; /* Cambia el color de fondo según tus preferencias */
+  margin-bottom: 120px;
+  border-radius: 10px; /* Añade bordes redondeados para un aspecto más suave */
+  padding: 20px;
+}
