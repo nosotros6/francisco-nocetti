@@ -5,13 +5,15 @@
 
 .sub-brand {
   font-family: "Roboto", sans-serif;
-  font-size: 32px;
+  font-size: 20px;
   font-weight: 300;
 }
 
-/* .nav-item {
-margin: 0 4px;
-} */
+.nombre-brand {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+}
 
 .nav-link {
   font-family: "DM Sans", sans-serif;
@@ -52,11 +54,16 @@ margin: 0 4px;
 .text-footer {
   font-family: "DM Sans", sans-serif;
   font-size: 16px;
+  font-weight: 300;
+}
+
+.enlace-footer {
+  text-decoration: none;
 }
 
 .cuento {
-  background-color: #d2e4f7; /* Cambia el color de fondo según tus preferencias */
+  background-color: #d2e4f7; 
   margin-bottom: 120px;
-  border-radius: 10px; /* Añade bordes redondeados para un aspecto más suave */
+  border-radius: 10px; 
   padding: 20px;
 }
